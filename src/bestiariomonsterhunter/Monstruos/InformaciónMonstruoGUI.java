@@ -4,7 +4,7 @@ import bestiariomonsterhunter.VentanaPrincipal;
 
 /**
  *
- * @author Víctor Arroyo Ferrando
+ * @author Víctor Arroyo
  */
 public class InformaciónMonstruoGUI extends javax.swing.JFrame {
 
